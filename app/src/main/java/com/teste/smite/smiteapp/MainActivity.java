@@ -264,7 +264,7 @@ public class MainActivity extends ActionBarActivity {
         }
         if(n == 56) {
             imagename = "ullr";
-            name = "ullr"; // ullr
+            name = "Ullr"; // Ullr
         }
         if(n == 57) {
             imagename = "vamana";
